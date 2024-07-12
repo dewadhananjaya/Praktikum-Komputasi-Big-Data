@@ -1,4 +1,4 @@
-##ORACLE FOR BEGINNER
+## ORACLE FOR BEGINNER
 
 - [x] [GOOGLE COLAB](https://colab.research.google.com/)
 - [x] [JUPYTER NOTEBOOK](https://jupyter.org/try)
@@ -18,3 +18,5 @@ Materi yang dipelajari:
 8. Interaction With Oracle Server
 
 Source: https://vm.lepkom.gunadarma.ac.id/skema/tingkat2
+
+
